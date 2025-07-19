@@ -1,0 +1,43 @@
+/* Dashboard.css */
+.dashboard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #1e293b;
+  border-radius: 16px;
+  padding: 20px;
+  margin-left: 20px;
+  width: 300px; /* Adjust width as needed */
+  box-shadow: 0 4px 20px rgba(139, 92, 246, 0.3);
+}
+
+.metric-card {
+  background: #2a2e35;
+  border-radius: 12px;
+  padding: 16px;
+  margin: 10px 0;
+  text-align: center;
+  color: #e0e7ff;
+}
+
+.timer-display {
+  font-size: 2rem;
+  color: #60a5fa;
+}
+
+.btn-timer {
+  background: transparent;
+  border: 2px solid #60a5fa;
+  border-radius: 8px;
+  padding: 8px 16px;
+  color: #60a5fa;
+  cursor: pointer;
+  margin: 5px;
+  transition: background-color 0.3s;
+}
+
+.btn-timer:hover {
+  background-color: #2563eb;
+  color: #ede9fe;
+}
