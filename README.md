@@ -95,7 +95,6 @@ This project is licensed under the MIT License.
 
 ---
 
-Let me know if you want this customized with badges, screenshots, or even a dark theme preview banner babe 🌟
 
 
 
